@@ -2,7 +2,7 @@
 name = "sawtooth-devmode-engine-rust"
 version = "1.2.5"
 authors = ["Intel Corporation"]
-description = "Hyperledger Sawtooth DevMode Rust consensus engine"
+description = "Sawtooth DevMode Rust consensus engine"
 
 [[bin]]
 name = "devmode-engine-rust"
